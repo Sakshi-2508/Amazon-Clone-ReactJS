@@ -57,72 +57,72 @@ Run `npm start` to start the application
 **Authentication page**
 
 <div>
-  <img src="./screenshots/Screenshot_3-3-2025_12640_localhost.jpeg" width="80%" height="80%"/>
+  <img src="./screenshots/Screenshot_3-3-2025_12640_localhost.jpeg" width="70%" height="80%"/>
 </div>
 
 <div>
-  <img src="./screenshots/Screenshot_3-3-2025_12749_localhost.jpeg" width="30%" height="30%"/>
+  <img src="./screenshots/Screenshot_3-3-2025_12749_localhost.jpeg" width="70%" height="80%"/>
 </div>
 
 
 **Home page**
 
 <div>
-  <img src="./screenshots/Screenshot 2025-03-03 121404.png" width="30%" height="30%"/>
+  <img src="./screenshots/Screenshot 2025-03-03 121404.png" width="70%" height="80%"/>
 </div>
 
 <div>
-  <img src="./screenshots/Screenshot 2025-03-03 121419.png" width="30%" height="30%"/>
+  <img src="./screenshots/Screenshot 2025-03-03 121419.png" width="70%" height="80%"/>
 </div>
 
 
 **Wishlist page**
 
 <div>
-  <img src="./screenshots/Screenshot 2025-03-03 122518.png" width="30%" height="30%"/>
+  <img src="./screenshots/Screenshot 2025-03-03 122518.png" width="70%" height="80%"/>
 </div>
 
 
 **Product page**
 
 <div>
-  <img src="./screenshots/Screenshot 2025-03-03 121419.png" width="30%" height="30%"/>
+  <img src="./screenshots/Screenshot 2025-03-03 121419.png" width="70%" height="80%"/>
 </div>
 
 
 **Cart page**
 
 <div>
-  <img src="./screenshots/Screenshot 2025-03-03 121439.png" width="30%" height="30%"/>
+  <img src="./screenshots/Screenshot 2025-03-03 121439.png" width="70%" height="80%"/>
 </div>
 
 
 **Payment page**
 
 <div>
-  <img src="./screenshots/Screenshot 2025-03-03 122805.png" width="30%" height="30%"/>
+  <img src="./screenshots/Screenshot 2025-03-03 122805.png" width="70%" height="80%"/>
 </div>
 
 <div>
-  <img src="./screenshots/Screenshot 2025-03-03 122821.png" width="30%" height="30%"/>
+  <img src="./screenshots/Screenshot 2025-03-03 122821.png" width="70%" height="80%"/>
 </div>
 
 <div>
-  <img src="./screenshots/Screenshot 2025-03-03 123149.png" width="30%" height="30%"/>
+  <img src="./screenshots/Screenshot 2025-03-03 123149.png" width="70%" height="80%"/>
 </div>
 
 
 **Orders page**
 
 <div>
-  <img src="./screenshots/Screenshot 2025-03-03 121459.png" width="30%" height="30%"/>
+  <img src="./screenshots/Screenshot 2025-03-03 121459.png" width="70%" height="80%"/>
 </div>
 
 
 **Profile page**
 
 <div>
-  <img src="./screenshots/Screenshot 2025-03-03 121519.png" width="30%" height="30%"/>
+  <img src="./screenshots/Screenshot 2025-03-03 121519.png" width="70%" height="80%"/>
 </div>
 
 
