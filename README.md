@@ -42,12 +42,12 @@ User profile tab for managing personal information
 4.Create a new Firebase project and copy the configuration details to src/Firebase.js
 
 5.Open `.firebaserc` and modify this line:
-    ```sh
+  ```sh
     "projects": {
         "default": "firebaseProjectId", //replace with your firebase project id
         "staging": "firebaseProjectId" //replace with your firebase project id
     },
-    ```
+  ```
 
 Run `npm start` to start the application
 
