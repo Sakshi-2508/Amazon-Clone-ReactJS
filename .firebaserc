@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "clone-6abe8"
-  }
+    "default": "", 
+    "staging": ""
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
