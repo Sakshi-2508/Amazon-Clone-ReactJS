@@ -39,7 +39,7 @@ User profile tab for managing personal information
 
 3.Create a Firebase account and enable Firebase Authentication and Firestore
 
-4.Create a new Firebase project and copy the configuration details to src/Firebase.js
+4.Create a new Firebase project and copy the configuration details to `src/Firebase.js`
 
 5.Open `.firebaserc` and modify this line:
   ```sh
