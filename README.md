@@ -57,7 +57,7 @@ Run `npm start` to start the application
 **Authentication page**
 
 <div>
-  <img src="./screenshots/Screenshot_3-3-2025_12640_localhost.jpeg" width="30%" height="30%"/>
+  <img src="./screenshots/Screenshot_3-3-2025_12640_localhost.jpeg" width="80%" height="80%"/>
 </div>
 
 <div>
