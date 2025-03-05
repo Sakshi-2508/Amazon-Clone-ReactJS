@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "", 
+    "staging": ""
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
